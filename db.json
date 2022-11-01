@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "title": "Watch",
+      "price": "19.00000",
+      "memory": "0",
+      "image": "https://avatars.mds.yandex.net/i?id=0f9dcaf2c767b4753a26b6aede45b918-5332192-images-thumbs&n=13",
+      "category": "Watches",
+      "id": 1
+    },
+    {
+      "title": "gold",
+      "price": "190.00",
+      "memory": "0",
+      "image": "https://avatars.mds.yandex.net/i?id=2a00000179ded95a7e3523aaa9dc16c9ebab-4414558-images-thumbs&n=13",
+      "category": "Accessories",
+      "id": 2
+    },
+    {
+      "title": "charger",
+      "price": "9000000000000",
+      "memory": "0",
+      "image": "https://avatars.mds.yandex.net/i?id=2a0000017a0ec6f5789dd12c8bd2803250cd-4327894-images-thumbs&n=13",
+      "category": "Chargers adapters",
+      "id": 3
+    },
+    {
+      "title": "iphone 14 pro max",
+      "price": "120.000",
+      "memory": "512",
+      "image": "https://avatars.mds.yandex.net/i?id=2c91b17de25437cd4b14293a2662053e4b9c8c44-7012645-images-thumbs&n=13",
+      "category": "Iphone`s",
+      "id": 4
+    }
+  ]
+}
